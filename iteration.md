@@ -408,7 +408,7 @@ See also [with-hash-table-iterator](http://www.lispworks.com/documentation/Hyper
   (format t "~&~a ~a~%" k v))
 ~~~
 
-### Looping over two lists in parallel
+### Looping over two lists at once
 
 #### loop
 
